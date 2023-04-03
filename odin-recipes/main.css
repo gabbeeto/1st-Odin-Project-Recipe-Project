@@ -1,0 +1,35 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+body
+{
+background-color: yellow;
+}
+
+#center
+{
+display: flex;
+justify-content: center;
+background-color: yellowgreen;
+border-bottom: 2px solid black;
+}
+
+#recipesContainer
+{
+background-color: #5A7B14;
+display: flex;
+justify-content: space-around;
+margin: 10px;
+border-radius: 10px;
+border: solid black 1px;
+box-shadow: 5px 5px 12px black;
+}
+
+
+h1{
+margin-left: 10px;
+
+
+}
